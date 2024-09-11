@@ -35,7 +35,7 @@ public class GitHomework {
 		
 		String week = "First week";
 
-		int weekNumber = 12
+		int weekNumber = 12; 
 	}
 	
 	
