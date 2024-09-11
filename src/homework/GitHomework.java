@@ -34,6 +34,8 @@ public class GitHomework {
 		// this is from Eclipse
 		
 		String week = "First week";
+
+		int weekNumber = 12
 	}
 	
 	
