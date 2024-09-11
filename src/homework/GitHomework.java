@@ -30,6 +30,10 @@ public class GitHomework {
 	public static void dayName(String day) {
 		
 		System.out.println(day);
+		
+		// this is from Eclipse
+		
+		String week = "First week";
 	}
 	
 	
