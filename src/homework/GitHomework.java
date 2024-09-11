@@ -11,4 +11,15 @@ public class GitHomework {
 		
 		System.out.println(a + b);
 	}
+	
+	public static void fullName(String firstName, String lastName) {
+		
+		System.out.println(firstName + lastName);
+	}
+	
+	public static void newEmp ( int id) {
+		
+		System.out.println(id);
+	}
+	
 }
