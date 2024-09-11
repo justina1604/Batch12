@@ -5,6 +5,11 @@ public class GitHomework {
 	public static void main(String[] args) {
 
 		System.out.println("BATCH 12: Git Class Lecture");
+
+		// this is coming from GitHub
+
+		String day = "Monday";
+
 	}
 
 	public static void add(int a, int b) {
